@@ -1,0 +1,13 @@
+fastapi==0.115.12 
+uvicorn==0.34.2 
+pandas==2.2.3 
+pandas-ta==0.3.14b 
+ta==0.11.0 
+xgboost==3.0.0 
+scikit-learn==1.6.1 
+onnx==1.17.0 
+skl2onnx==1.18.0 
+python-jose==3.4.0 
+python-multipart==0.0.20 
+python-dotenv==1.1.0
+requests
